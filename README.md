@@ -1,3 +1,5 @@
+<img src="glash.webp">
+
 # Glash Framework
 
 Glash는 HTML5 캔버스를 사용하여 간단한 그래픽 및 애니메이션을 그릴 수 있는 JavaScript 프레임워크입니다. Adobe Flash의 지원 종료로 인해 Flash 대체 기술로 사용될 수 있습니다.
